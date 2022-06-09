@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="radioButton">
+        <item name="android:buttonTint">@color/purple_500</item>
+        <item name="android:fontFamily">@font/montserrat_alternates</item>
+        <item name="android:textColor">@color/purple_700</item>
+    </style>
+</resources>
